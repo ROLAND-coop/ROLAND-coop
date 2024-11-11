@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ROLAND-Achia
+- 👋 Hi, I’m @ROLAND-ACHIA
 - 👀 I’m interested in Power generation using solar energy
 - 🌱 I’m currently learning Renewable energy 
 - 💞️ I’m looking to collaborate on any project that has to do with power generation using solar panels
